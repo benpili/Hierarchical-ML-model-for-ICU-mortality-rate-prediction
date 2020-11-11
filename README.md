@@ -1,6 +1,7 @@
 # Hierarchical Machine Learning Model for in Hospital Moratality Rate Prediction
 This project is the final work in the "Machine Learning in Healtcare - 097248" course.
-Ben Filiarsky & Eden Bar
+
+Ben Filiarsky & Eden Bar.
 
 ## Abstract
 In this work, we propose a Hierarchical ML model for ICU mortality rate prediction. We believe that the ramification of certain health-conditions can aid the model’s ability to predict the mortality rate of ICU patients. Our approach is a novel take on an existing task - in-hospital mortality prediction, and one we strongly believe can alter the decision making process of ICU care and treatment trajectory. This is a proof of concept that building hierarchical models that include more conditions than just cardiac conditions might be beneficial for making better classification models.
