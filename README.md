@@ -1,4 +1,4 @@
-# Hierarchical Machine Learning Model for in Hospital Moratality Rate Prediction
+# Hierarchical Machine Learning Model for in Hospital Mortality Rate Prediction
 This project is the final work in the "Machine Learning in Healtcare - 097248" course.
 
 Ben Filiarsky & Eden Bar.
